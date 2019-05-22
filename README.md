@@ -33,7 +33,8 @@ Este proyecto se realizó sobre Ubuntu 16.04 LTS utilizando `python3` y `Geoserv
    Para obtener geoserver se puede ingresar a la [página][1], para descargar el `WAR` e instalarlo en el servidor de  
    aplicaciones `TOMCAT`:  
    
-   `sudo cp geoserver.war /root/tomcat/webapps/`
+   `sudo cp geoserver.war /root/tomcat/webapps/`  
+   
    Por último se tiene que reiniciar tomcat
 
 ## Probando
