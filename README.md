@@ -12,7 +12,7 @@ Para obtener una copia del proyecto basta con clonarlo desde el github :
 Tiene que existir un repositorio con la información necesaria para que pueda correr el script, es decir, se debe contar  
 con los workspaces, layers y styles del _GEOSERVER_ que se quiere reinstalar.  
 
-Se deben modificar las variables globales de el archivo `main_reinstalar_geoserver.py`, estas variables corresponden a  
+Se deben modificar las variables globales del archivo `main_reinstalar_geoserver.py`, estas variables corresponden a  
 los valores del *Geoserver* que se quiere reinstalar:
 
   * USUARIO          *"El nombre del usuario en el Geoserver"*
@@ -35,7 +35,9 @@ Este proyecto se realizó sobre Ubuntu 16.04 LTS utilizando `python3` y `Geoserv
    Por último se tiene que reiniciar tomcat
 
 ## Probando
-  > _**python3** main_reinstalar_geoserver.py_
+Para iniciar con la intalación del *GEOSERVER* se ejecuta la siguiente línea :
+  
+  `python3 main_reinstalar_geoserver.py`
 
 #### Descripción
 
