@@ -7,7 +7,7 @@ Este repositorio con la información es un respaldo de la información principal
 ## Primeros Pasos
 Para obtener una copia del proyecto basta con clonarlo desde el github :  
 
-`https://github.com/grupoioa/geoserver_reinstalacion.git`  
+`git clone https://github.com/grupoioa/geoserver_reinstalacion.git`  
 
 Tiene que existir un repositorio con la información necesaria para que pueda correr el script, es decir, se debe contar  
 con los workspaces, layers y styles del _GEOSERVER_ que se quiere reinstalar.  
