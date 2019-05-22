@@ -67,7 +67,7 @@ Usamos [SemVer][4] para versionar. Para las versiones disponibles, consulte [las
 * **Raúl Medina Peña** - [Github][6]
 
 ## Licencia
-Este proyecto está licenciado bajo la licencia MIT; consulte el archivo [LICENSE.md](LICENSE.md) para obtener detalles.
+Este proyecto está licenciado bajo la licencia MIT; consulte el archivo [LICENSE](LICENSE) para obtener detalles.
 
 ## Agradecimientos  
 * Agradecemos a [Olmo Zavala][7] por su colaboración y todo su apoyo en este proyecto.
