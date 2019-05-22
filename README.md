@@ -25,6 +25,8 @@ los valores del *Geoserver* que se quiere reinstalar:
 ### Prerrequisitos
 Este proyecto se realizó sobre Ubuntu 16.04 LTS utilizando `python3` y `Geoserver 2.11.2`.
    #### PYTHON 3
+   Para instalar python3 sobre Ubuntu, hacemos lo siguiente desde la terminal :
+   
    `sudo apt-get install python3.6` 
    
    #### GEOSERVER v2.11.2
